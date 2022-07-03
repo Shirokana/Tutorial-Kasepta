@@ -7,7 +7,7 @@ module.exports = (client) => {
             }
         }
 
-        reply('halo', 'holaaaa')
+        reply('test', 'ajg di bales')
         reply('tes', 'tastestastes')
         // reply('halo', 'oitt')
     })
