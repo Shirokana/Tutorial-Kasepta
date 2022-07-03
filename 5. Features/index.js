@@ -15,4 +15,4 @@ const loadFeatures = require("@features/load-features");
 
 loadFeatures(client)
 
-client.login(config.token)
+client.login(config.OTkzMDQwNjY4ODA3MTUxNzM2.GY20yE.QofA1NP6XxUHi3sVFmkyGuoPywFFlGUh10-eMA)
